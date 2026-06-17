@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 
-📚 I'm a Computer Science student at I.I.S.S. "Volta - De Gemmis"  
+📚 I'm a Computer Science student at I.I.S.S. "Volta - De Gemmis" in Bitonto(BA)
 🐧 (I use Arch btw. No, I won't stop mentioning it.)  
 🛠️ Passionate about Cybersecurity, Linux and Open Source  
 🏆 Participated in CTF (Capture The Flag) competitions such as OliCyber and CyberChallenge.IT  
