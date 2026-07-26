@@ -4,7 +4,7 @@
 
 <br/>
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 📚 I'm a Computer Science student at I.I.S.S. "Volta - De Gemmis" in Bitonto  
 🐧 (I use Arch btw. No, I won't stop mentioning it.)  
@@ -20,7 +20,7 @@
 
 <br/>
 
-### 💻 Skills
+## 💻 Skills
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 
 <br/>
 
-### 🛠️ IDE & OS I Use
+## 🛠️ IDE & OS I Use
 
 <div align="center">
   <a href="https://skillicons.dev">
