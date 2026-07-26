@@ -24,7 +24,17 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,firebase,figma&theme=dark&perline=5" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,firebase,figma,spring,mysql&theme=dark&perline=6" alt="Skills" />
+  </a>
+</div>
+
+<br/>
+
+## IDE
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" alt="IDE" />
   </a>
 </div>
 
@@ -39,9 +49,3 @@
 </div>
 
 <br/>
-
-### 📈 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciccioSIUM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
