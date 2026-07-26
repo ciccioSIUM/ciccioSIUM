@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,firebase,figma,spring,mysql&theme=dark&perline=6" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,tailwind,firebase,figma,spring,mysql,maven&theme=dark&perline=6" alt="Skills" />
   </a>
 </div>
 
@@ -40,11 +40,11 @@
 
 <br/>
 
-## 🛠️ IDE & OS I Use
+## 🛠️ OS I Use
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,arch,ubuntu,windows&theme=dark&perline=4" alt="IDE and OS" />
+    <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&theme=dark&perline=4" alt="OS" />
   </a>
 </div>
 
